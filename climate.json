@@ -1,0 +1,12 @@
+{
+  "template": "climate",
+  "mappings": {
+    "doc": {
+      "properties": {
+        "date": {
+          "type": "date"
+        }
+      }
+    }
+  }
+}
