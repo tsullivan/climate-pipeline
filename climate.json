@@ -3,8 +3,20 @@
   "mappings": {
     "doc": {
       "properties": {
-        "date": {
+        "@date": {
           "type": "date"
+        },
+        "precipitation": {
+          "type": "short"
+        },
+        "temperature_max": {
+          "type": "short"
+        },
+        "temperature_min": {
+          "type": "short"
+        },
+        "average_wind": {
+          "type": "short"
         }
       }
     }
