@@ -6,6 +6,12 @@
         "@date": {
           "type": "date"
         },
+        "station_id": {
+          "type": "keyword"
+        },
+        "station_name": {
+          "type": "keyword"
+        },
         "precipitation": {
           "type": "short"
         },
