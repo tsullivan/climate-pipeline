@@ -15,6 +15,9 @@
         "precipitation": {
           "type": "short"
         },
+        "temperature_avg": {
+          "type": "short"
+        },
         "temperature_max": {
           "type": "short"
         },
