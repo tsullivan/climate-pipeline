@@ -13,19 +13,19 @@
           "type": "keyword"
         },
         "precipitation": {
-          "type": "short"
+          "type": "integer"
         },
         "temperature_avg": {
-          "type": "short"
+          "type": "integer"
         },
         "temperature_max": {
-          "type": "short"
+          "type": "integer"
         },
         "temperature_min": {
-          "type": "short"
+          "type": "integer"
         },
         "average_wind": {
-          "type": "short"
+          "type": "integer"
         }
       }
     }
